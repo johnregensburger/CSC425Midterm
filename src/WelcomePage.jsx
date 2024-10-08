@@ -11,7 +11,7 @@ const WelcomePage = () => {
     return (
       <div>
         <h1>Welcome to HackerCon</h1>
-        <p>Welcome SuperHacker You Are Inz</p>
+        <p>Welcome SuperHacker You Are In</p>
         <button onClick={goToHomePage}>HOME</button>
       </div>
     );

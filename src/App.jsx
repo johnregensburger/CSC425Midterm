@@ -1,3 +1,5 @@
+// Much love to ChatGPT for helping me troubleshoot the LoginPage and QuizPage forms
+
 import { useNavigate } from 'react-router-dom';
 
 const App = () => {
